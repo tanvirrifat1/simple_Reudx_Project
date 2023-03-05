@@ -3,13 +3,13 @@
     {
       "id": 1,
       "text": "Learn Vanilla JavaScript",
-      "completed": true,
+      "completed": "yellow",
       "color": "yellow"
     },
     {
       "id": 2,
       "text": "Learn Modern ES6+ JavaScript",
-      "completed": true,
+      "completed": "red",
       "color": "red"
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "text": "Test",
-      "completed": false,
+      "completed": "red",
       "id": 8
     },
     {
@@ -56,12 +56,14 @@
     {
       "text": "dfgdsg",
       "completed": false,
-      "id": 11
+      "id": 11,
+      "color": "green"
     },
     {
       "text": "Learn redux with LWS",
       "completed": false,
-      "id": 12
+      "id": 12,
+      "color": "yellow"
     },
     {
       "text": "",
@@ -70,13 +72,14 @@
     },
     {
       "text": "hello",
-      "completed": false,
+      "completed": "yellow",
       "id": 14
     },
     {
       "text": "Redux thunk",
-      "completed": false,
-      "id": 15
+      "completed": "yellow",
+      "id": 15,
+      "color": "green"
     }
   ]
 }
