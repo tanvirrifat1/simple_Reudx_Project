@@ -46,29 +46,10 @@
       "id": 8
     },
     {
-      "text": "hdjhdjhdjsdh",
-      "completed": false,
-      "id": 9
-    },
-    {
-      "id": 10
-    },
-    {
-      "text": "dfgdsg",
-      "completed": false,
-      "id": 11,
-      "color": "green"
-    },
-    {
       "text": "Learn redux with LWS",
       "completed": false,
       "id": 12,
       "color": "yellow"
-    },
-    {
-      "text": "",
-      "completed": false,
-      "id": 13
     },
     {
       "text": "hello",
@@ -77,9 +58,15 @@
     },
     {
       "text": "Redux thunk",
-      "completed": "yellow",
+      "completed": true,
       "id": 15,
       "color": "green"
+    },
+    {
+      "text": "hello ",
+      "completed": true,
+      "id": 16,
+      "color": "yellow"
     }
   ]
 }
