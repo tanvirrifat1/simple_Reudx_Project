@@ -49,6 +49,34 @@
       "text": "hdjhdjhdjsdh",
       "completed": false,
       "id": 9
+    },
+    {
+      "id": 10
+    },
+    {
+      "text": "dfgdsg",
+      "completed": false,
+      "id": 11
+    },
+    {
+      "text": "Learn redux with LWS",
+      "completed": false,
+      "id": 12
+    },
+    {
+      "text": "",
+      "completed": false,
+      "id": 13
+    },
+    {
+      "text": "hello",
+      "completed": false,
+      "id": 14
+    },
+    {
+      "text": "Redux thunk",
+      "completed": false,
+      "id": 15
     }
   ]
 }
