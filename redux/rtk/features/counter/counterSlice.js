@@ -9,7 +9,13 @@ const counterSlice = createSlice({
     initialState,
     reducers: {
         increment: (state, action) => {
-            console.log('dfh')
+            state.count++;
+        },
+        increment: (state, action) => {
+            state.count--;
         }
     }
 })
+
+module.exports = counterSlice.reducer;
+module.exports.counterAction = counterSlice.actions
